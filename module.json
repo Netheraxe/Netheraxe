@@ -1,0 +1,11 @@
+{
+    "id" : "netheraxe",
+    "version" : "0.1.0",
+    "displayName" : "netheraxe Faction",
+    "description" : "Content related to netheraxe Faction.",
+    "dependencies" :  [
+        {
+            "id" : "core"
+        }
+    ]
+}
