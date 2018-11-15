@@ -8,5 +8,10 @@
         "hull": "netheraxe:netheraxeLargeShip",
         "items": "3*rep core:lightArmor-1 core:smallShield-1 netheraxe:spikeCannon-1 netheraxe:spikeCannon-1",
         "money": 10000
+    },
+	"Inferno": {
+	"hull": "netheraxe:netheraxeCapitalShip",
+        "items": "3*rep core:lightArmor-1 core:smallShield-1 netheraxe:spikeCannon-1 netheraxe:spikeCannon-1",
+        "money": 10000
     }
 }
