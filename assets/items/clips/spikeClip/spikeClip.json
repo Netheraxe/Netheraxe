@@ -1,0 +1,8 @@
+{
+    "projectile": "spike",
+    "size": 20,
+    "price": 20,
+    "iconName": "spikeClip",
+    "displayName": "Spike",
+    "plural": "Spikes"
+}

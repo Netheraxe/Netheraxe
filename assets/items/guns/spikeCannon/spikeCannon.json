@@ -5,7 +5,7 @@
     "timeBetweenShots": 0.7,
     "reloadTime": 3,
     "price": 50,
-    "clipName": "core:blasterClip",
+    "clipName": "netheraxe:spikeClip",
     "gunLength": 0.14,
     "displayName": "SpikeCannon",
     "lightOnShot": true,
